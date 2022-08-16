@@ -47,7 +47,7 @@
     "node": ">=12"
   },
   "dependencies": {
-    "markdown-it": "12.3.2"
+    "markdown-it": "13.0.1"
   },
   "devDependencies": {
     "ava": "~3.15.0",
